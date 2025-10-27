@@ -1,1 +1,1 @@
-Hello, this is Glory's first Git test!
+Hello, this is Glory's first Git test made through GIT BASICS of THE ODIN PROJECT!
